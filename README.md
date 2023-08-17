@@ -15,7 +15,7 @@ A very simple bash script to find all zim files in the current folder and use ki
 - Now execute the file with `./addzim.sh`.
 - Done.
 
-- Note:
+## Note:
 
 - This will create another .sh file called zim_files.sh. Don't worry, it just runs kiwix-manage with the list of zim files collected in the first process. You can check it yourself by opening it in a text editor. 
 
