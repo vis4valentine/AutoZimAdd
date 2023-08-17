@@ -11,7 +11,7 @@ A very simple bash script to find all zim files in the current folder and use ki
 
 - Put the file in your Zim folder.
 - Open a terminal in the folder.
-- Run `chmod '+x addzim.sh` to make it executable.
+- Run `chmod +x addzim.sh` to make it executable.
 - Now execute the file with `./addzim.sh`.
 - Done.
 
